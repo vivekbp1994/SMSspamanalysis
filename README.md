@@ -5,7 +5,7 @@ This project involved detection of  spam SMS using Machine Learning. Dataset is 
 
 **Steps involved:**
   <li>  Loading data and importing necessary text analytics packages
-  <li>  Check word counts of spam and non spam SMS </n>
+  <li>  Check word counts of spam and non spam SMS <li>
         <img width="379" alt="spam1" src="https://user-images.githubusercontent.com/47410643/79669585-841a2f80-818a-11ea-8c70-23eac0d3fb9c.PNG">
     
    <img width="384" alt="spam2" src="https://user-images.githubusercontent.com/47410643/79669595-9bf1b380-818a-11ea-926d-1a80949f9f90.PNG">
