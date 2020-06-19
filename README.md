@@ -16,6 +16,10 @@ This project involved detection of  spam SMS using Machine Learning. Dataset is 
 <li>  Perform required text cleaning
 <li>  Modelling: Uses Keras for Deep Learning
 <li>  Obtained a test accuracy of 98%  
-          
-
+  
+ **Deployment in cloud:**
+ 
+ The application has been Tested and deployed in GCP.Please check this link (https://flaskapp-266900.appspot.com/)
+         
+ <img width="384" alt="spam2" src="https://user-images.githubusercontent.com/47410643/85167965-b225f980-b237-11ea-823e-8a9f59483eb2.png">         
 
